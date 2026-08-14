@@ -33,6 +33,18 @@ Practical coding examples, scripts, and web application implementations.
   - Web application deployment (Flask, Heroku, HTML/CSS/JS)
   - Statistics and Probability resources
 
+### 4. `archive` (Subject-Wise Reference Library)
+A vast, neatly organized collection of cheat sheets, textbooks, and topic-specific guides covering all aspects of data science and software engineering.
+
+**Subject Map:**
+| Core Math & Stats | Programming | Python Ecosystem | AI & ML | Data Eng & DevOps | Other Skills |
+|:---|:---|:---|:---|:---|:---|
+| [Mathematics](./archive/Mathematics) | [Python](./archive/Python) | [Pandas](./archive/Pandas) | [Machine Learning](./archive/Machine%20Learning) | [Data Engineering](./archive/Data%20Engineering) | [Algorithms](./archive/Algorithms) |
+| [Probability](./archive/Probability) | [R Cheat Sheet](./archive/R%20Cheat%20Sheet) | [Numpy](./archive/Numpy) | [Deep Learning](./archive/Deep%20Learning) | [Big Data](./archive/Big%20Data) | [Data Visualization](./archive/Data%20Visualization) |
+| [Statistics](./archive/Statistics) | [SQL](./archive/SQL) | | [Artificial Intelligence](./archive/Artificial%20Intelligence) | [Data Mining](./archive/Data%20Mining) | [Excel](./archive/Excel) |
+| [ODEs](./archive/Ordinary%20Differential%20Equations) | [Scala](./archive/Scala) | | [NLP](./archive/NLP) | [Data Warehouse](./archive/Data%20Warehouse) | [Interview Questions](./archive/Interview%20Questions) |
+| | [Matlab](./archive/Matlab) | | | [DevOps & Docker](./archive/Docker%20and%20Kubernetes) | [Git & Linux](./archive/Linux) |
+
 ## 🚀 Getting Started
 
 To get started with these materials locally:
