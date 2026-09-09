@@ -1,0 +1,81 @@
+# 📚 AI books: Your Curated AI & Data Science Library
+
+Welcome to **AI books**! This repository is a curated collection of books, papers, and resources dedicated to Artificial Intelligence, Machine Learning, Deep Learning, LLMs, MLOps, LLMOps, and Data Science. It's designed for AI Engineers, Machine Learning Engineers, Data Scientists, researchers, students, and anyone passionate about diving deep into the world of AI.
+
+Our goal is to provide a centralized, organized, and accessible place to discover high-quality learning materials from renowned publishers like **O'Reilly, Manning, Packt, Springer**, academic institutions, and leading researchers in the field.
+
+✨ **Star this repository to stay updated with new additions!** ✨
+
+## Table of Contents
+
+- [📚 AI books: Your Curated AI \& Data Science Library](#-ai-books-your-curated-ai--data-science-library)
+  - [Table of Contents](#table-of-contents)
+  - [📚 Table of Books](#-table-of-books)
+  - [🤝 Contributing](#-contributing)
+  - [⚖️ Disclaimer](#️-disclaimer)
+  - [📜 License](#-license)
+
+## 📚 Table of Books
+
+Below is the structure of the repository, with books and resources organized by folder. Each folder contains PDFs and related materials from reputable publishers, including O'Reilly and others, as well as open-access resources. The books are linked to their file paths in the repository.
+
+| Folder | Books |
+|--------|-------|
+| **AI Books** | - [AI Engineering: Building Applications with Foundation Models](AI%20books/[O'Reilly]%20AI%20Engineering_Building%20Applications%20with%20Foundation%20Models_Chip%20Huyen.pdf) (O'Reilly) <br> - [AI-Powered Business Intelligence: Improve Forecasts and Decision Making with Machine Learning](AI%20books/[O'Reilly]%20AI-Powered%20Business%20Intelligence_Improve%20Forecasts%20and%20Decision%20Making%20with%20Machine%20Learning_Tobias%20Zwingmann.pdf) (O'Reilly) <br> - [AI and Machine Learning for Coders](AI%20books/[O'Reilly]%20Al%20and%20Machine%20Learning%20for%20Coders.pdf) (O'Reilly) <br> - [Beyond Vibe Coding: From Coder to AI-Era Developer](AI%20books/[O'Reilly]%20Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer.pdf) (O'Reilly) |
+| **AI Architecture Books** | - [Architecting Data and Machine Learning Platforms](AI%20Architecture%20books/[O'Reilly]%20Architecting%20Data%20and%20Machine%20Learning%20Platforms.pdf) (O'Reilly) <br> - [Building Applications with AI Agents: Designing and Implementing Multiagent Systems](AI%20Architecture%20books/[O'Reilly]%20Building%20Applications%20with%20AI%20Agents%20Designing%20and%20Implementing%20Multiagent%20Systems.pdf) (O'Reilly) <br> - [Designing Machine Learning Systems](AI%20Architecture%20books/[O'Reilly]%20Designing%20Machine%20Learning%20Systems.pdf) (O'Reilly) <br> - [Generative AI Design Patterns](AI%20Architecture%20books/[O'Reilly]%20Generative%20AI%20Design%20Patterns.pdf) (O'Reilly) <br> - [Generative AI on Kubernetes: Operationalizing Large Language Models](AI%20Architecture%20books/[O'Reilly]%20Generative%20AI%20on%20Kubernetes%20Operationalizing%20Large%20Language%20Models.pdf) (O'Reilly) <br> - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](AI%20Architecture%20books/[O'Reilly]%20Machine%20Learning%20Design%20Patterns_Solutions%20to%20Common%20Challenges%20in%20Data%20Preparation%20Model%20Building%20and%20MLOps.pdf) (O'Reilly) <br> - [Design Patterns: Elements of Reusable Object-Oriented Software](AI%20Architecture%20books/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software.pdf) |
+| **Data Science Books** | - [Data Mining Concepts and Techniques 3rd Edition](Data%20Science%20books/Data%20Mining%20Concepts%20and%20Techniques%203rd%20Edition.pdf) <br> - [Exploratory Data Analysis with R](Data%20Science%20books/Exploratory%20Data%20Analysis%20with%20R.pdf) <br> - [The Probability and Statistics Cookbook](Data%20Science%20books/The%20Probability%20and%20Statistics%20Cookbook.pdf) <br> - [Storytelling with Data](Data%20Science%20books/Storytelling%20with%20data%20cole%20nussbaumer%20knaflic.pdf) <br> - [Database Internals](Data%20Science%20books/[O'Reilly]%20Database%20Internals.pdf) (O'Reilly) <br> - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](Data%20Science%20books/[O'Reilly]%20Python%20for%20Data%20Analysis%20-%20data%20wrangling%20with%20Pandas%20NumPy%20and%20IPython.pdf) (O'Reilly) <br> - [Data Science from Scratch](Data%20Science%20books/[O'Reilly]%20Data%20Science%20from%20Scratch.pdf) (O'Reilly) <br> - [Python Data Science Handbook](Data%20Science%20books/[O'Reilly]%20Python%20Data%20Science%20Handbook%20-%20Jake%20VanderPlas.pdf) (O'Reilly) <br> - [Practical Statistics for Data Scientists](Data%20Science%20books/[O'Reilly]%20Practical%20Statistics%20for%20Data%20Scientists.pdf) (O'Reilly) |
+| **LLM and NLP Books** | - [Prompt Engineering Guide VN](LLM%20and%20NLP%20books/Prompt%20Engineering%20Guide%20VN.pdf) <br> - [Build a Large Language Model (From Scratch)](LLM%20and%20NLP%20books/[Manning]%20Build%20a%20Large%20Language%20Model%20(From%20Scratch).pdf) (Manning) <br> - [Text Processing with NLTK 3 Cookbook.pdf](LLM%20and%20NLP%20books/Text%20Processing%20with%20NLTK%203%20Cookbook.pdf) <br> - [Domain-Specific Small Language Models: Efficient AI for Local Deployment](LLM%20and%20NLP%20books/[Manning]%20Domain-Specific%20Small%20Language%20Models%20Efficient%20AI%20for%20local%20deployment.pdf) (Manning) <br> - [Foundations of Statistical Natural Language Processing](LLM%20and%20NLP%20books/[MIT]%20Foundations%20of%20Statistical%20Natural%20Language%20Processing.pdf) (MIT) <br> - [Deep Learning in Natural Language Processing](LLM%20and%20NLP%20books/[Springer]%20Deep%20Learning%20in%20Natural%20Language%20Processing.pdf) (Springer) <br> - [Speech and Language Processing](LLM%20and%20NLP%20books/[Stanford]%20Speech%20and%20Language%20Processing.pdf) (Stanford) <br> - [Natural Language Processing With Python](LLM%20and%20NLP%20books/[O'Reilly]%20Natural%20Language%20Processing%20With%20Python.pdf) (O'Reilly) <br> - [Natural-Language-Annotation-for-Machine-Learning](LLM%20and%20NLP%20books/[O'Reilly]%20Natural-Language-Annotation-for-Machine-Learning.pdf) (O'Reilly) <br> - [Practical Natural Language Processing](LLM%20and%20NLP%20books/[O'Reilly]%20Practical%20Natural%20Language%20Processing.pdf) (O'Reilly) <br> - [Designing Large Language Model Applications (2023)](LLM%20and%20NLP%20books/[O'Reilly]%20Designing%20Large%20Language%20Model%20Applications%20(2023).pdf) (O'Reilly) <br> - [Natural Language Processing with Transformers](LLM%20and%20NLP%20books/[O'Reilly]%20Natural%20Language%20Processing%20with%20Transformers.pdf) (O'Reilly) <br> - [Applied Natural Language Processing in the Enterprise](LLM%20and%20NLP%20books/[O'Reilly]%20Applied%20Natural%20Language%20Processing%20in%20the%20Enterprise.pdf) (O'Reilly) <br> - [Prompt Engineering for LLMs.pdf](LLM%20and%20NLP%20books/[O'Reilly]%20Prompt%20Engineering%20for%20LLMs.pdf) (O'Reilly)|
+| **LLMOps and MLOps Books** | - [FastAPI](LLMOps%20and%20MLOps%20books/[O'Reilly]%20FastAPI.pdf) (O'Reilly) <br> - [Practical MLOps: Operationalizing Machine Learning Models](LLMOps%20and%20MLOps%20books/[O'Reilly]%20Practical%20MLOps_Operationalizing%20Machine%20Learning%20Models.pdf) (O'Reilly) <br> - [What is LLMOps: Large Language Models in Production](LLMOps%20and%20MLOps%20books/[O'Reilly]%20What%20is%20LLMOps_Large%20Language%20Models%20in%20Production.pdf) (O'Reilly) <br> - [Python for DevOps: Learn Ruthlessly Effective Automation](LLMOps%20and%20MLOps%20books/[O'Reilly]%20Python%20for%20DevOps_Learn%20Ruthlessly%20Effective%20Automation.pdf) (O'Reilly) <br> - [Building Generative AI Services with FastAPI](LLMOps%20and%20MLOps%20books/[O'Reilly]%20Building%20Generative%20AI%20Services%20with%20FastAPI.pdf) (O'Reilly) <br> - [Generative AI with LangChain (2024)](LLMOps%20and%20MLOps%20books/Generative%20AI%20with%20LangChain%20(2024).pdf) |
+| **Machine Learning Books** | - [Machine Learning VN](Machine%20Learning%20books/Machine_learning_VN.pdf) <br> - [ML Basic VN](Machine%20Learning%20books/ML_basic_VN.pdf) <br> - [Fundamentals of Deep Learning](Machine%20Learning%20books/[O'Reilly]%20Fundamentals%20of%20Deep%20Learning.pdf) (O'Reilly) <br> - [Introduction to Machine Learning with Python](Machine%20Learning%20books/[O'Reilly]%20Introduction%20to%20Machine%20Learning%20with%20Python.pdf) (O'Reilly) <br> - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](Machine%20Learning%20books/[O'Reilly]%20Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf) (O'Reilly)|
+
+**Important Note:** Please ensure you respect the copyright and licensing terms of all materials found in this repository. These resources are shared for educational and research purposes.
+
+## 🤝 Contributing
+
+Contributions are highly welcome and appreciated! If you have a book, paper, or resource that you think would be a great addition to this collection, please follow these steps:
+
+1.  **Fork** this repository.
+2.  **Create a new branch** for your additions (`git checkout -b feature/add-new-book`).
+3.  **Add your PDF file(s)** to the relevant folder. If a suitable folder doesn't exist, you can suggest a new one.
+    *   Please try to use a clear and descriptive naming convention for files (e.g., `Author-BookTitle-Year.pdf`).
+4.  **If you add a new top-level category, please update this README.md** (specifically the "Table of Books" section).
+5.  **Commit** your changes (`git commit -m 'Add: Book Title by Author'`).
+6.  **Push** to your forked repository (`git push origin feature/add-new-book`).
+7.  **Open a Pull Request** to the `main` branch of this repository.
+    *   Provide a clear description of the resource(s) you are adding.
+
+**Guidelines for Contributions:**
+*   Ensure the material is relevant to AI, ML, Data Science, LLMs, MLOps, etc.
+*   Preferably, contribute materials that are legally shareable or in the public domain.
+*   If you are contributing your own work (e.g., a research paper you authored), please indicate this.
+*   Avoid duplicates. Check if the resource already exists.
+
+## ⚖️ Disclaimer
+
+The books, papers, and other PDF materials available in this repository are collected from various publicly accessible sources on the internet or contributed by users. They are intended for **educational and research purposes only**.
+
+*   **Copyright:** All copyrights and intellectual property rights for the books and papers belong to their respective authors and publishers. This repository does not claim ownership of any copyrighted material.
+*   **Responsibility:** Users of this repository are solely responsible for adhering to all applicable copyright laws and licensing agreements. It is your responsibility to ensure that your use of any material from this repository is lawful.
+*   **No Hosting of Illegally Acquired Materials:** We do not intend to host or distribute materials that infringe on copyright. If you are a copyright holder and believe that your work has been included in this repository in a way that constitutes copyright infringement, please open an issue or contact the repository maintainers with sufficient evidence, and the material will be promptly investigated and, if necessary, removed.
+
+This repository acts as a curated index and a collection point, similar to a public library. Please support authors and publishers by purchasing books you find valuable.
+
+## 📜 License
+
+The structure of this repository, including this `README.md` file and the organization of directories, is licensed under the [MIT License](./LICENSE).
+
+Individual books, papers, and other PDF documents within this repository retain their original copyrights and licenses as determined by their respective authors and publishers.
+
+## 🌟 Star History
+
+<a href="https://github.com/panchanansahoo/AI-pdf-books/stargazers">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=panchanansahoo/AI-pdf-books&type=Date&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=panchanansahoo/AI-pdf-books&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=panchanansahoo/AI-pdf-books&type=Date" />
+  </picture>
+</a>
+
+---
+
+Happy Learning! If you find this repository useful, please consider giving it a ⭐!
